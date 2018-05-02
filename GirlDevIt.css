@@ -1,0 +1,54 @@
+/*
+Kelsey Padilla
+April 25, 2018
+Girls Develop It
+*/
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { font-family: sans-serif; 
+background-color: #ffcccc;
+}
+
+header { 
+text-align: center;
+background-color: #ff6666; 
+}
+
+
+main {	
+
+	background-color: #ffcccc;
+	font-family: "Times New Roman";
+	font-size: 87.5%;
+	background-color: #ffcccc; 
+	color: black;
+} 
+
+h1 {
+
+font-size: 150%;
+text-decoration: underline; 
+font-family: cursive;
+
+}
+
+h2 {
+
+font-size: 150%;
+text-decoration: underline; 
+font-family: cursive;
+
+}
+
+footer { font-family: serif;
+}
+
+	a:hover, a:focus{ color:fuchsia;
+						font-size: 30px}
+	
+.right{float: right;}
